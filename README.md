@@ -1,2 +1,4 @@
-# AlyonasSchedule
+﻿# AlyonasSchedule
  Телеграм-бот  для составления расписания на неделю
+
+Для работы необходимо в папку Includes добавить файл Token.py, содержащий переменную c_telebotToken с Вашим API токеном
